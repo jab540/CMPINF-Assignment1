@@ -11,5 +11,4 @@ Jaredtest is just Jared's test commit. We accepted the commit because we love hi
 Download them files and run it with python
 
 ## License
-This project is licensed under your wife's boyfriend -- visit http://www.5z8.info/56-DEPLOY-TROJAN-287.mw9----_d0i9er_ip-stealer for more info.
 
