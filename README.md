@@ -6,5 +6,5 @@ Assignment1.py performs a Caesar Shift encryption on the word the user types in.
 Download them files and run it with python
 
 ## License
-This project is licensed under your wife's boyfriend -- visit http://www.5z8.info/dailystormer-password-cache_g3v5wx_foodporn for more info.
+This project is licensed under your wife's boyfriend -- visit http://www.5z8.info/56-DEPLOY-TROJAN-287.mw9----_d0i9er_ip-stealer for more info.
 
