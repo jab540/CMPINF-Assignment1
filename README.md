@@ -13,3 +13,6 @@ Python can be downloaded [here](https://www.python.org/downloads/)
 
 ## License
 This project is protected under the MIT license.
+
+## How to contribute: 
+If you would like to contribute to make our project better, then push your revisions to the project's github page. 
