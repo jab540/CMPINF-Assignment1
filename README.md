@@ -8,7 +8,8 @@ Age.py determines when the user will be 18, how long ago he/she was 18, or if he
 Jaredtest is just Jared's test commit. We accepted the commit because we love him.
 
 ## Getting Started
-Download them files and run it with python
+All files in this repo run on Python. 
+Python can be downloaded [here](https://www.python.org/downloads/)
 
 ## License
-
+This project is protected under the MIT license.
