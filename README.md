@@ -1,6 +1,7 @@
 # CMPINF-Assignment1
 Members: Brian, Isaiah, Jared  
 Assignment1.py performs a Caesar Shift encryption on the word the user types in. Doesn't work with spaces.  
+Age.py determines when the user will be 18, how long ago he/she was 18, or if he/she is 18 right now.
 
 ## Getting Started
 Download them files and run it with python
